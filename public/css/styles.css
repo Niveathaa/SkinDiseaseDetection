@@ -1,0 +1,74 @@
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+   
+}
+
+
+.navbar-header{
+    color:  #CBF55C ;
+    
+}
+
+body{
+    background-image:'images/img.jpg';
+}
+.navbar {
+   
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    
+    background-color:#A683E3;
+}
+.navbar-nav  li a:hover {
+    color:  red !important;
+}
+
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+  
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #A683E3;
+}
+
+.footer p {
+    margin-left:0 ;
+	margin-top: 25px;
+	font-size: 12px;
+  color:red;
+}
+.button{
+    color: black;
+    background:#A683E3 ;
+    border-radius:5px;
+    display: flex;
+
+}
+.slogan{
+    font-size: larger;
+    color:red;
+    text-align: center;
+   
+}
+.form-content{
+   margin-left: 400px;
+    
+}
+.chumma{
+    margin-left: 400px;
+    
+}
